@@ -4,7 +4,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 13195 % 5 = 0 (13195 = 5 * 2639)                    (2 and 3 are no divisors)
 2639 % 7 = 0 (2639 = 7 * 377)                       (2, 3, 5 are no divisors)
-377 % 13 = 0 (377 = 13 * 29)                        (2, 3, 5, 7, 9 are no divisors)
+377 % 13 = 0 (377 = 13 * 29)                        (2, 3, 5, 7, 9, 11 are no divisors)
 29 % 29 = 0 -> 29 is the largest prime factor       (only divisor is itself, so the number must be prime)
 */
 
