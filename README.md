@@ -1,1 +1,1 @@
-My solutions for [Project Euler](https://projecteuler.net/archives) in various programming languages.
+My solutions for some [Project Euler](https://projecteuler.net/archives) exercises in various programming languages.
