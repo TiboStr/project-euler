@@ -16,6 +16,6 @@ public class p016 {
 
         long sum = Arrays.stream(power.toString().split("")).mapToInt(i -> Integer.valueOf(i)).sum();
         System.out.println("The sum of the digits of " + num + "^" + exp + " is " + sum);
-    }
+}
 
 }
